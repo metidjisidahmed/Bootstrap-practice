@@ -1,0 +1,12 @@
+.row >div:nth-child(2n) {
+    background-color: red;
+}
+
+.row >div:nth-child(2n+1) {
+    background-color: green;
+}
+
+.row > div{
+    /*margin : 5px 0;*/
+    height:100px;
+}
